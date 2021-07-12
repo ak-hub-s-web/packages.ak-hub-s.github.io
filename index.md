@@ -2,7 +2,7 @@
 <head><title>Index of /apt/</title></head>
 <body>
 <h1>Index of /apt/</h1><hr><pre>
-<a href="ak-hub-games/">ak-hub-games/</a>                                      06-Jul-2021 18:03                   -
+<a href="https://github.com/packages-ak-hub/apt.github.io/blob/main/ak-hub-games.html">ak-hub-games/</a>                                      06-Jul-2021 18:03                   -
 <a href="ak-hub-main/">ak-hub-main/</a>                                       06-Jul-2021 18:03                   -
 <a href="ak-hub-root/">ak-hub-root/</a>                                       06-Jul-2021 18:03                   -
 <a href="ak-hub-science/">ak-hub-science/</a>                                    06-Jul-2021 18:04                   -
