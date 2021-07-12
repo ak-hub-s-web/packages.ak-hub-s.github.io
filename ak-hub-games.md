@@ -1,5 +1,5 @@
 <html>
-<head><title>Index of /apt/termux-games/</title></head>
+<head><title>Index of /apt/ak-hub-games/</title></head>
 <body>
 <h1>Index of /apt/termux-games/</h1><hr><pre>
 <a href="dists/">dists/</a>                                             06-Jul-2021 18:03                   -
