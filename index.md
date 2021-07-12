@@ -1,7 +1,7 @@
 <html>
 <head><title>Index of /apt/</title></head>
 <body>
-<h1>Index of /apt/</h1><hr><pre><a href="../">../</a>
+<h1>Index of /apt/</h1><hr><pre>
 <a href="ak-hub-games/">ak-hub-games/</a>                                      06-Jul-2021 18:03                   -
 <a href="ak-hub-main/">ak-hub-main/</a>                                       06-Jul-2021 18:03                   -
 <a href="ak-hub-root/">ak-hub-root/</a>                                       06-Jul-2021 18:03                   -
